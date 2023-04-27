@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! :wave:, soy Jorge</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
-- :mailbox: Cómo contactarme: **jorge_4755@hotmail.com**
+<h2>Acerca de mí</h2>
+    <p>Soy Desarrollador FullStack con inclinacion mas hacia Front-End, motivado siempre en buscar superarme a mi mismo y alcanzar nuevas metas, asegurando que puedo contribuir con mis habilidades y experiencia a los objetivos propuestos y  estoy seguro de que trabajar en un equipo sería una gran oportunidad para mí para desarrollarme tanto de manera personal como profesional. .</p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">

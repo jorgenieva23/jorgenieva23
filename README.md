@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Soy Desarrollador FullStack con inclinacion mas hacia Front-End, motivado siempre en buscar superarme a mi mismo y alcanzar nuevas metas, asegurando que puedo contribuir con mis habilidades y experiencia a los objetivos propuestos y estoy seguro de que trabajar en un equipo sería una gran oportunidad para mí para desarrollarme tanto de manera personal como profesional. .</h2>
+<h7 align="left">Soy Desarrollador FullStack con inclinacion mas hacia Front-End, motivado siempre en buscar superarme a mi mismo y alcanzar nuevas metas, asegurando que puedo contribuir con mis habilidades y experiencia a los objetivos propuestos y estoy seguro de que trabajar en un equipo sería una gran oportunidad para mí para desarrollarme tanto de manera personal como profesional. .</h7>
 
 ###
 
